@@ -1,0 +1,9 @@
+{
+  "name": "vivo-y500-204-server",
+  "version": "1.0.0",
+  "description": "Custom Captive Portal for vivo Y500",
+  "main": "api/generate_204.js",
+  "engines": {
+    "node": "18.x"
+  }
+}
